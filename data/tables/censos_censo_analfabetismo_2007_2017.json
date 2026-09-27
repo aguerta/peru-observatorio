@@ -1,0 +1,1 @@
+{"schema":"censos","table":"censo_analfabetismo_2007_2017","columns":["censo","analfabetismo"],"types":{"censo":"BIGINT","analfabetismo":"DOUBLE"},"rows":[{"censo":2007,"analfabetismo":12.3},{"censo":2017,"analfabetismo":11.1}]}

@@ -1,0 +1,6 @@
+{
+  "name": "Observatorio de Datos del Perú",
+  "description": "Datos oficiales del Perú: ingreso, pobreza, salud, empleo, empresas y censos. Microdatos INEI validados, 2001-2026.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

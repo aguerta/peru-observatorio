@@ -1,0 +1,1 @@
+{"schema":"censos","table":"censo_urbanizacion_1993_2017","columns":["censo","urbano_pct","poblacion"],"types":{"censo":"BIGINT","urbano_pct":"DOUBLE","poblacion":"BIGINT"},"rows":[{"censo":1993,"urbano_pct":73.2,"poblacion":22048356},{"censo":2007,"urbano_pct":76.1,"poblacion":26185215},{"censo":2017,"urbano_pct":79.1,"poblacion":29449476}]}

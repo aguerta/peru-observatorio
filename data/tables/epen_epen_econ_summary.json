@@ -1,0 +1,1 @@
+{"schema":"epen","table":"epen_econ_summary","columns":["indicador","valor"],"types":{"indicador":"VARCHAR","valor":"DOUBLE"},"rows":[{"indicador":"brecha_total_log","valor":0.1601},{"indicador":"explicada_log","valor":0.0194},{"indicador":"no_explicada_log","valor":0.1407},{"indicador":"mincer_nacional_pct","valor":10.39},{"indicador":"wage_curve_elasticidad","valor":0.0842}]}

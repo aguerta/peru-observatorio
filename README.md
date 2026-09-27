@@ -1,5 +1,3 @@
-Link de la applet en GEMINI: https://ai.studio/apps/a04d272a-32fc-4e04-b6f3-9f085a58fd79
-
 # Observatorio de Datos del Perú
 
 [![verify](https://github.com/cesarchavezp29/peru-observatorio/actions/workflows/verify.yml/badge.svg)](https://github.com/cesarchavezp29/peru-observatorio/actions/workflows/verify.yml)

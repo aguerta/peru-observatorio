@@ -1,8 +1,0 @@
-**/node_modules
-**/dist
-**/__pycache__
-**/*.pyc
-data/observatorio.duckdb
-frontend/smoke.mjs
-*.png
-.git
